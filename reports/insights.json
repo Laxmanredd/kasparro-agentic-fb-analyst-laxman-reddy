@@ -1,0 +1,13 @@
+{
+  "roas_trend": "ROAS 14-day change: -17.928989119227563",
+  "ctr_pattern": "CTR 14-day change: -3.310837012797051",
+  "purchases_pattern": "Purchases (last 14 days): 54327",
+  "primary_hypotheses": [
+    {
+      "hypothesis": "Audience saturation in low-CTR campaigns",
+      "reasoning": "Consistently low CTR often means the target audience is no longer engaging.",
+      "evidence": "Low CTR campaigns: [{'campaign_name': 'Women Seamless Eve yday', 'ctr': 0.0}, {'campaign_name': 'Women-Studio Spo-ts', 'ctr': 0.0}, {'campaign_name': 'Men Pr-mium Modal', 'ctr': 0.0}, {'campaign_name': 'Men Premiu- Modal', 'ctr': 0.0}, {'campaign_name': 'WOMEN Semless Everyday', 'ctr': 0.0}]",
+      "confidence": 0.6
+    }
+  ]
+}

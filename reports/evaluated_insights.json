@@ -1,0 +1,10 @@
+{
+  "evaluated_hypotheses": [
+    {
+      "hypothesis": "Audience saturation in low-CTR campaigns",
+      "initial_confidence": 0.6,
+      "evidence_validation": "Multiple low-CTR campaigns detected.",
+      "adjusted_confidence": 0.7
+    }
+  ]
+}
