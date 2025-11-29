@@ -1,4 +1,0 @@
-# Placeholder for configuration settings
-data_path: "data/synthetic_fb_ads_undergarments.csv"
-reports_path: "reports/"
-logs_path: "logs/"

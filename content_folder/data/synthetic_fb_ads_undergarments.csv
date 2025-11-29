@@ -1,3 +1,0 @@
-campaign_name,adset_name,date,spend,impressions,clicks,ctr,purchases,revenue,roas,creative_type,creative_message,audience_type,platform,country
-Men Test Campaign,Adset-1,2025-01-01,100,10000,100,0.01,10,1000,10,Image,Test Message 1,Broad,Facebook,US
-Women Test Campaign,Adset-2,2025-01-02,200,5000,20,0.004,5,500,2.5,Video,Test Message 2,Lookalike,Instagram,GB
