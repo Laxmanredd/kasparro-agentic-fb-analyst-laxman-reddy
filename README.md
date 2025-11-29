@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 #   Kasparro Agentic Facebook Performance Analyst — Laxman Reddy
 
 This project implements a fully autonomous multi-agent system that analyzes Facebook Ads performance, identifies reasons for ROAS changes, and generates improved creative recommendations.
@@ -271,4 +271,4 @@ Name: Agentic FB Analyst — Initial Release
 
 Description:
 Contains all agents, prompts, dataset, reports, tests, config files, and the CLI execution script.
->>>>>>> 1c197893d135ae47ebb76e569bd6bd117d1cbd6f
+
